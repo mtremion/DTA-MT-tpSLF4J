@@ -1,0 +1,3 @@
+12:56:11.925 [main] INFO  dev.console.App - Bonjour Slf4J !
+12:56:11.927 [main] INFO  dev.console.App - Implémentation Logback
+12:56:11.927 [main] DEBUG dev.service.AppService - Traitement 1 : param = valeur 1
